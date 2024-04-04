@@ -15,12 +15,6 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
-Program to find the gcd of two number using function.
-Developed by: HYCINTH D
-RegisterNumber:  212223240055
-*/
-```
 Find the GCD of two numbers
 Developed By : Hycinth D
 Register Number : 212223240055

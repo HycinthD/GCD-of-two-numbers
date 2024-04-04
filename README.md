@@ -21,6 +21,10 @@ Developed by: HYCINTH D
 RegisterNumber:  212223240055
 */
 ```
+Find the GCD of two numbers
+Developed By : Hycinth D
+Register Number : 212223240055
+```
 
 ```
 def gcd():
